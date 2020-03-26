@@ -1,2 +1,3 @@
-studentA = "I'm studentB"
-print(studentB)
+studentA = "I'm studentA"
+AuntA = "I'm yaling"
+print(studentA, AuntA)
