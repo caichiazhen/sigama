@@ -1,3 +1,4 @@
 studentA = "I'm studentA"
 AuntA = "I'm yaling"
-print(studentA, AuntA)
+chacha = "I'm yachi"
+print(studentA, AuntA, chacha)
