@@ -1,2 +1,2 @@
-studentA = "I'm studentA"
-print(studentA)
+studentA = "I'm studentB"
+print(studentB)
